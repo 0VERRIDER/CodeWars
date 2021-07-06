@@ -1,2 +1,2 @@
 # CodeWars-Karunya
-An competetion assistant app for the CodeWars Event
+A competetion assistant app for the CodeWars Event
